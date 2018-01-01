@@ -8,3 +8,5 @@ https://www.hackster.io/vsl-tech/hand-gesture-game-simulator-c252fa
 Follow!<br>
 VSL Creations
 https://vslcreations.blogspot.in/
+
+https://www.element14.com/community/community/raspberry-pi/blog/2016/12/29/hand-gesture-game-simulator
